@@ -47,6 +47,11 @@ A responsive multi-page dashboard featuring reusable CSS utilities, Grid and Fle
 - [Single Price Grid Component](https://yasser987.github.io/frontend-mentor-single-price-grid/) — [Source](https://github.com/yasser987/frontend-mentor-single-price-grid)
 - [Huddle Landing Page](https://yasser987.github.io/frontend-mentor-huddle-landing-page/) — [Source](https://github.com/yasser987/frontend-mentor-huddle-landing-page)
 
+## Advanced Learning Projects
+
+- [Next.js Authentication System](https://github.com/yasser987/nextjs-authentication-system) — TypeScript, NextAuth, MongoDB, Tailwind CSS, Formik, and bcrypt.
+- [Next.js Data Dashboard](https://github.com/yasser987/nextjs-data-dashboard) — TypeScript, Material UI, MUI Data Grid, Chart.js, Tailwind CSS, and Sass.
+
 ## Learning Projects
 
 - [Bondi Bootstrap Landing Page](https://yasser987.github.io/bondi-bootstrap-landing-page/) — responsive Bootstrap 5 layout, custom CSS, section navigation, and accessible interactions. [Source](https://github.com/yasser987/bondi-bootstrap-landing-page)
