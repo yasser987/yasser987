@@ -39,6 +39,8 @@ A responsive task management application with persistent browser storage, comple
 
 ## Learning Projects
 
+- [JavaScript Hangman Game](https://yasser987.github.io/javascript-hangman-game/) — game state, DOM events, keyboard controls, and responsive UI. [Source](https://github.com/yasser987/javascript-hangman-game)
+
 Projects created to explore concepts, practise implementation, and strengthen software development fundamentals.
 
 ## Development Standards
