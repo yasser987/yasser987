@@ -31,6 +31,11 @@ A responsive creative agency landing page focused on reusable CSS, accessibility
 A responsive task management application with persistent browser storage, complete task workflows, and accessible interactions.  
 [Source Code](https://github.com/yasser987/javascript-task-manager)
 
+### [GitHub Repository Finder](https://yasser987.github.io/github-repository-finder/)
+
+A responsive GitHub REST API client featuring async data fetching, useful repository metadata, and complete loading and error states.  
+[Source Code](https://github.com/yasser987/github-repository-finder)
+
 ## Frontend Mentor Challenges
 
 - [Four Card Feature Section](https://yasser987.github.io/frontend-mentor-four-card-feature/) — [Source](https://github.com/yasser987/frontend-mentor-four-card-feature)
