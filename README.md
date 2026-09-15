@@ -28,7 +28,9 @@ A responsive creative agency landing page focused on reusable CSS, accessibility
 
 ## Frontend Mentor Challenges
 
-Practical challenges focused on translating professional designs into responsive and accessible interfaces.
+- [Four Card Feature Section](https://yasser987.github.io/frontend-mentor-four-card-feature/) — [Source](https://github.com/yasser987/frontend-mentor-four-card-feature)
+- [Single Price Grid Component](https://yasser987.github.io/frontend-mentor-single-price-grid/) — [Source](https://github.com/yasser987/frontend-mentor-single-price-grid)
+- [Huddle Landing Page](https://yasser987.github.io/frontend-mentor-huddle-landing-page/) — [Source](https://github.com/yasser987/frontend-mentor-huddle-landing-page)
 
 ## Learning Projects
 
