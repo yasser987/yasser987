@@ -36,6 +36,11 @@ A responsive task management application with persistent browser storage, comple
 A responsive GitHub REST API client featuring async data fetching, useful repository metadata, and complete loading and error states.  
 [Source Code](https://github.com/yasser987/github-repository-finder)
 
+### [Responsive Admin Dashboard](https://yasser987.github.io/responsive-admin-dashboard/)
+
+A responsive multi-page dashboard featuring reusable CSS utilities, Grid and Flexbox layouts, accessible interactions, and consistent UI patterns.  
+[Source Code](https://github.com/yasser987/responsive-admin-dashboard)
+
 ## Frontend Mentor Challenges
 
 - [Four Card Feature Section](https://yasser987.github.io/frontend-mentor-four-card-feature/) — [Source](https://github.com/yasser987/frontend-mentor-four-card-feature)
@@ -43,6 +48,8 @@ A responsive GitHub REST API client featuring async data fetching, useful reposi
 - [Huddle Landing Page](https://yasser987.github.io/frontend-mentor-huddle-landing-page/) — [Source](https://github.com/yasser987/frontend-mentor-huddle-landing-page)
 
 ## Learning Projects
+
+- [Bondi Bootstrap Landing Page](https://yasser987.github.io/bondi-bootstrap-landing-page/) — responsive Bootstrap 5 layout, custom CSS, section navigation, and accessible interactions. [Source](https://github.com/yasser987/bondi-bootstrap-landing-page)
 
 - [JavaScript Hangman Game](https://yasser987.github.io/javascript-hangman-game/) — game state, DOM events, keyboard controls, and responsive UI. [Source](https://github.com/yasser987/javascript-hangman-game)
 - [JavaScript Image Slider](https://yasser987.github.io/javascript-image-slider/) — component state, navigation controls, keyboard support, and responsive images. [Source](https://github.com/yasser987/javascript-image-slider)
