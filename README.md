@@ -26,6 +26,11 @@ A responsive personal portfolio built with semantic HTML, CSS Grid, Flexbox, acc
 A responsive creative agency landing page focused on reusable CSS, accessibility, semantic structure, and multi-device layouts.  
 [Source Code](https://github.com/yasser987/kasper-landing-page)
 
+### [JavaScript Task Manager](https://yasser987.github.io/javascript-task-manager/)
+
+A responsive task management application with persistent browser storage, complete task workflows, and accessible interactions.  
+[Source Code](https://github.com/yasser987/javascript-task-manager)
+
 ## Frontend Mentor Challenges
 
 - [Four Card Feature Section](https://yasser987.github.io/frontend-mentor-four-card-feature/) — [Source](https://github.com/yasser987/frontend-mentor-four-card-feature)
