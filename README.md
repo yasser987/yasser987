@@ -16,7 +16,15 @@ I build modern frontend projects with a strong focus on clean structure, respons
 
 ## Featured Projects
 
-Projects are added here after passing a complete review of their code, design, responsiveness, accessibility, documentation, and overall quality.
+### [Yasser Frontend Portfolio](https://yasser987.github.io/yasser-frontend-portfolio/)
+
+A responsive personal portfolio built with semantic HTML, CSS Grid, Flexbox, accessible forms, and modern frontend practices.  
+[Source Code](https://github.com/yasser987/yasser-frontend-portfolio)
+
+### [Kasper Landing Page](https://yasser987.github.io/kasper-landing-page/)
+
+A responsive creative agency landing page focused on reusable CSS, accessibility, semantic structure, and multi-device layouts.  
+[Source Code](https://github.com/yasser987/kasper-landing-page)
 
 ## Frontend Mentor Challenges
 
