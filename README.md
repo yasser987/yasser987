@@ -41,6 +41,7 @@ A responsive task management application with persistent browser storage, comple
 
 - [JavaScript Hangman Game](https://yasser987.github.io/javascript-hangman-game/) — game state, DOM events, keyboard controls, and responsive UI. [Source](https://github.com/yasser987/javascript-hangman-game)
 - [JavaScript Image Slider](https://yasser987.github.io/javascript-image-slider/) — component state, navigation controls, keyboard support, and responsive images. [Source](https://github.com/yasser987/javascript-image-slider)
+- [JavaScript Memory Game](https://yasser987.github.io/javascript-memory-game/) — shuffled card state, matching logic, timing, and responsive interaction. [Source](https://github.com/yasser987/javascript-memory-game)
 
 Projects created to explore concepts, practise implementation, and strengthen software development fundamentals.
 
